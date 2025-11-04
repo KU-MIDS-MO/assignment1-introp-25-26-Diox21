@@ -1,17 +1,4 @@
 def is_strictly_increasing_digits(n):
-    ### Replace with your own code (begin) ###
-    pass
-    ### Replace with your own code (end)   ###
-
-
-#1) is_strictly_increasing_digits(n)
-   - #Return True if the digits of a non-negative integer n are strictly increasing from left to right
-   - #Return False otherwise
-   - #Return -1 if n is negative or not an intiger
-   
-#%%
-
-def is_strictly_increasing_digits(n):
 
 #Checking here if n is negative
     if n < 0:
